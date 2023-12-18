@@ -1,4 +1,4 @@
-# 2022.12.11
+# 2022.12.16
 프로그래머스 > 코딩테스트 입문 > [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)
 
 ## <div align=center> 내가 생각한 풀이과정 </div>

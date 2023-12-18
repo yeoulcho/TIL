@@ -1,4 +1,4 @@
-# 2022.12.11
+# 2022.12.17
 프로그래머스 > 코딩테스트 입문 > [숨어있는 숫자의 덧셈(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864)
 
 ## <div align=center> 내가 생각한 풀이과정 </div>

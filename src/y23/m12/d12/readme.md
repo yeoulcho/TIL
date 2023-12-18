@@ -1,4 +1,4 @@
-# 2022.12.11
+# 2022.12.12
 프로그래머스 > 코딩테스트 입문 > [A로 B만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
 
 ## <div align=center> 내가 생각한 풀이과정 </div>

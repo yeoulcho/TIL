@@ -1,4 +1,4 @@
-# 2022.12.12
+# 2022.12.13
 프로그래머스 > 코딩테스트 입문 > [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848#qna)
 
 ## <div align=center> 내가 생각한 풀이과정 </div>
